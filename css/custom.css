@@ -1,0 +1,65 @@
+body{
+	line-height: 1.6;
+	color: #3a3a3a;
+	background: #fff;		
+}
+
+.navbar-brand {
+	font-family: 'Changa One', 'sans-serif';
+	text-shadow: 1.5px -1.5px 1px #ffa64d;
+	font-size: 2em;
+	color: #fff;
+}
+
+#navbarDropdown{
+	color: #00866B;
+	font-size: 1.0em;
+	font-weight: bold;
+}
+
+.navbar-toggler{
+	cursor: pointer;	
+}
+
+.btn-twitter,
+.btn-facebook,
+.btn-pinterest{
+	
+	font-size: 1.8em;
+}
+
+.sidebar a{
+	border: 2px solid #00866B;
+}
+
+.sidebar a:hover {
+	background-color: #ffe6e6;
+}
+
+.main-footer{
+	padding-top: 1em;
+	font-family: Georgia, Times, serif;
+	background-color: #d3f8f6;
+}
+
+.normal {
+	background-color: #00e600;
+}
+
+.pre-h {
+	background-color: #ff9999;
+}
+
+.stage1 {
+	background-color: #ff6666;
+}
+
+.stage2 {
+	background-color: #ff4d4d;
+}
+
+.emergency {
+	background-color: #cc0000;
+}
+
+
